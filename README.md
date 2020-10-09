@@ -11,4 +11,4 @@ git clone https://github.com/as9697347/hackfb.git
 cd hackfb
 bash AN.sh
 ```
-or wach video
+او مشاهدة الفيديو
