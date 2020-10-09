@@ -32,7 +32,7 @@ printf " \n"
 a(){
 printf '\e[1;33m[1]\e[1;32m install hackfb\n'
 printf '\e[1;33m[x]\e[1;32m exit\n'
-read -p $'\e[1;32mEnter number: 'a
+read -p $'\e[1;32mEnter number: ' a
 if [[ $a == 1 ]];then
 pkg update && pkg upgrade
 pkg install python -y
