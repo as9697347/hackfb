@@ -13,5 +13,7 @@ bash AN.sh
 ```
 او مشاهدة الفيديو
 
+https://youtu.be/UykGYd1ACho
+
 يمكنكم التبرع إلى 
 as9697347@gmail.com
